@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2c094f1-3ce9-407b-bb8b-3c8f6fdebae9" name="Changes" comment="" />
+    <list default="true" id="f2c094f1-3ce9-407b-bb8b-3c8f6fdebae9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/system.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/conf/application.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/dependencies.yml" beforeDir="false" afterPath="$PROJECT_DIR$/conf/dependencies.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playlist-5.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/playlist-5.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playlist-5.iws" beforeDir="false" afterPath="$PROJECT_DIR$/playlist-5.iws" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +27,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -28,6 +37,7 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="28pwnCfzIIWV5kpZn6untTMlJia" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,11 +69,22 @@
       <workItem from="1652345148504" duration="1651000" />
       <workItem from="1652611634624" duration="70000" />
       <workItem from="1653074203443" duration="787000" />
-      <workItem from="1653671966263" duration="329000" />
+      <workItem from="1653671966263" duration="982000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
